@@ -1,7 +1,7 @@
 {
   "name": "base-nodejs-typescript-project",
   "version": "1.0.0",
-  "description": "This repository works a base NodeJs project in Typescript",
+  "description": "This repository includes the programming challenge for Patchwork.",
   "scripts": {
     "build": "tsc",
     "start": "node ./build/index.js",
